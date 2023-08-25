@@ -6,4 +6,5 @@
  *
  */
 module example1 {
+	//hello
 }
